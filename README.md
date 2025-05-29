@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahmi AYARI</h1>
 <h3 align="center">A passionate Cybersecurity and DevSecOps from Tunisia</h3>
 
-- 📫 How to reach me **fahmi.ayari@supcom.tn**
+- 📫 Contact me  **fahmi.ayari@supcom.tn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
